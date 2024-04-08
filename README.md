@@ -1,6 +1,6 @@
 **`Cyber Entreprenuer (Developer/Musician/Creator)`**
 
-Hi My name is Kevin, and I love technology a lot. I enjoy working with creative people to make useful and interesting software. What I really like about coding is solving tough problems and coming up with new ideas. It makes me happy to turn difficult challenges into great digital projects, using both my tech skills and creativity.
+Hi My name is Kevin, and I love technology. I enjoy working with creative people to make useful and interesting software. What I really like about coding is solving tough problems and coming up with new ideas. It makes me happy to turn difficult challenges into great digital projects, using both my tech skills and creativity.
 
    <p align="left">
       <a href="http://www.youtube.com/@ktown5422?sub_confirmation=1">
