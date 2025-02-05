@@ -1,6 +1,6 @@
 **`Software Engineer (Developer/Music Producer/Creator)`**
 
-Hi My name is Kevin, and I love technology. I enjoy working with creative people to make useful and interesting software. What I really like about coding is solving tough problems and coming up with new ideas. It makes me happy to turn difficult challenges into great digital projects, using both my tech skills and creativity.
+Hi, my name is Kevin, and I love technology. I enjoy working with creative people to build useful and exciting software. Coding excites me because I get to solve tough problems and bring ideas to life. I find it rewarding to take something complex, break it down, and create a smart solution. I also love learning new technologies and staying up to date with industry trends. For me, coding isn’t just about writing software—it’s about making a difference and building something meaningful.
 
    <p align="left">
       <a href="http://www.youtube.com/@TechManKev?sub_confirmation=1">
