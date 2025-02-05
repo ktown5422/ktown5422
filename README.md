@@ -52,7 +52,7 @@ Hi My name is Kevin, and I love technology. I enjoy working with creative people
 
 
  <summary><h3>👨‍💻 Kevin's Coding Journey</h3></summary>
- My journey into the world of coding began with a passion for creating and a fascination for technology. From an early age, I was drawn to the art of building digital experiences, particularly through HTML/CSS. This interest led me to dive into JavaScript, a language that became my canvas for crafting interactive and engaging web applications. Seeking to formalize my skills and turn my hobby into a career, I enrolled in LaunchCode and Savvy Coders bootcamps. These programs provided me with a comprehensive foundation in coding, from basic syntax to advanced programming concepts. The hands-on experience and rigorous training I received were instrumental in shaping me into a proficient developer. Graduating from these boot camps marked the beginning of my professional journey, turning my passion for front-end development into a reality.
+I have always loved technology and creating things. When I was younger, I enjoyed building web pages with HTML and CSS. As I learned more, I discovered JavaScript, which made websites fun and interactive. I wanted to turn this passion into a real job, so I joined the LaunchCode and Savvy Coders bootcamps. These programs taught me everything from basic coding to advanced problem-solving. I worked on real projects, practiced every day, and gained the skills I needed to become a developer. Graduating from these bootcamps was a big step, it helped me turn my love for coding into a career where I can build amazing digital experiences.
 
-[website]: https://www.kevintownson.io/
+[website]: https://www.kevintownson.vercel.app/
 [youtube]: http://www.youtube.com/@TechManKev
