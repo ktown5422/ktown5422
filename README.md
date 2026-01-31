@@ -44,7 +44,7 @@ Hi, my name is Kevin, and I love technology. I enjoy working with creative peopl
 
 ### 📊 Stats
 
-![Kevin's GitHub stats](https://streak-stats.demolab.com?user=ktown5422&theme=github-dark-blue&mode=weekly)
+![Kevin's GitHub stats](https://streak-stats.demolab.com?user=ktown5422&theme=github-dark-blue&mode=weekly)(https://git.io/streak-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ktown5422&theme=gruvbox&border_radius=4.5) -->
 
