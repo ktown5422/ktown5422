@@ -1,6 +1,6 @@
 # Kevin Townson
 
-## Junior Azure Cloud Engineer | Cloud Operations | Monitoring | Cost Optimization
+## Cloud Engineer | Cloud Operations | Monitoring | Cost Optimization
 
 I am an Azure-focused Cloud Engineer with a software engineering background and hands-on experience building cloud labs that solve real infrastructure problems.
 
