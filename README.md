@@ -13,18 +13,17 @@ To make that transition practical, I'm building hands-on infrastructure and clou
 These labs are **personal learning environments, not production systems or professional cloud experience**. They are how I'm developing practical experience with the technologies used in infrastructure, cloud operations, IT support, and data center environments.
 
 <p align="left">
-   <a href="http://www.youtube.com/@TechManKev?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCZ0UEoP6GaBObpxo2Hb1DLg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-   </a> 
-   <a href="http://www.youtube.com/@TechManKev">
-      <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCZ0UEoP6GaBObpxo2Hb1DLg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-   </a> 
-   <a href="https://github.com/ktown5422?tab=followers">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ktown5422?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://github.com/ktown5422?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ktown5422?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-   </a>
+  <a href="https://github.com/ktown5422">
+    <img src="https://img.shields.io/badge/GitHub-ktown5422-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kevin-townson">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Townson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.youtube.com/@TechManKev">
+    <img src="https://img.shields.io/badge/YouTube-TechManKev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
 
 ---
